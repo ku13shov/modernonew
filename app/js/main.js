@@ -80,7 +80,7 @@ $(function(){
     {
     boxClass:     'wow',      // default
     animateClass: 'animated', // default
-    offset:       200,          // default
+    offset:       0,          // default
     mobile:       true,       // default
     live:         true        // default
   }
